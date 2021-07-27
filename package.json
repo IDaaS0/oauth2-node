@@ -1,0 +1,22 @@
+{
+  "name": "oauth2-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IDaaS0/oauth2-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IDaaS0/oauth2-node/issues"
+  },
+  "homepage": "https://github.com/IDaaS0/oauth2-node#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
