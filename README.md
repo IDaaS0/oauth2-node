@@ -20,4 +20,9 @@ This repository implements Oauth2 from scratch, without using Oauth2 authenticat
 - Instagram 
 - Yahoo
 - LINE
+- Twitch
+- Apple
+- Steam
+- Microsoft
+- Dropbox
 etc...
