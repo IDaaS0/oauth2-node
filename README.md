@@ -6,12 +6,12 @@ This repository implements Oauth2 from scratch, without using Oauth2 authenticat
 
 - Github
 - Google 
+- Slack
 
 ## 対応予定
 
 - Twitter
 - Facebook
-- Slack
 - Discord
 - Instagram 
 - Yahoo
