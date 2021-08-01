@@ -7,12 +7,14 @@ const githubRouter= require('./routers/auth/github');
 const googleRouter = require('./routers/auth/google');
 const slackRouter = require('./routers/auth/slack');
 const discordRouter = require('./routers/auth/discord');
+const twitchRouter = require('./routers/auth/twitch');
 
 app.use(express.static(__dirname + '/public'));
 app.use('/auth/github', githubRouter);
 app.use('/auth/google', googleRouter);
 app.use('/auth/slack', slackRouter);
 app.use('/auth/discord', discordRouter);
+app.use('/auth/twitch', twitchRouter);
 
 app.get('/', (req, res) => {
     res.sendFile(__dirname + '/public/index.html');
