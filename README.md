@@ -13,6 +13,7 @@ This repository implements Oauth2 from scratch, without using Oauth2 authenticat
 - Slack
 - Discord
 - Twitch
+- LINE
 
 ## 対応予定
 
@@ -20,7 +21,6 @@ This repository implements Oauth2 from scratch, without using Oauth2 authenticat
 - Facebook
 - Instagram 
 - Yahoo
-- LINE
 - Apple
 - Steam
 - Microsoft
