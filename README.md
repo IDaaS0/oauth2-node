@@ -14,11 +14,11 @@ This repository implements Oauth2 from scratch, without using Oauth2 authenticat
 - Discord
 - Twitch
 - LINE
+- Facebook
 
 ## 対応予定
 
 - Twitter
-- Facebook
 - Instagram 
 - Yahoo
 - Apple
