@@ -1,0 +1,9 @@
+.content {
+    width: 850px;
+    margin: 50px auto;
+    text-align: left;
+}
+
+.title {
+    text-align: center !important;
+}
