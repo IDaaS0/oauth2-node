@@ -14,15 +14,19 @@ This repository implements Oauth2 from scratch, without using Oauth2 authenticat
 - Discord
 - Twitch
 - LINE
+
+## 対応中
+
 - Facebook
+- Instagram 
 
 ## 対応予定
 
 - Twitter
-- Instagram 
 - Yahoo
 - Apple
 - Steam
 - Microsoft
 - Dropbox
+- Youtube
 etc...
